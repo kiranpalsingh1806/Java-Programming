@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/4-Expressions-Statements.iml" filepath="$PROJECT_DIR$/.idea/4-Expressions-Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaChallenges/JavaChallenges.iml" filepath="$PROJECT_DIR$/JavaChallenges/JavaChallenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsInJava/MethodsInJava.iml" filepath="$PROJECT_DIR$/MethodsInJava/MethodsInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeedConverterChallenge/SpeedConverterChallenge.iml" filepath="$PROJECT_DIR$/SpeedConverterChallenge/SpeedConverterChallenge.iml" />
+    </modules>
+  </component>
+</project>
