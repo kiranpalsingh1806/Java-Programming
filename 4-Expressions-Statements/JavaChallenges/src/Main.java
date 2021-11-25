@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println(TeenNumberChecker.hasTeen(9, 99, 19));
+        System.out.println(AreaCalculator.area(5.0));
+        System.out.println(AreaCalculator.area(5.0, 4.0));
     }
 }
