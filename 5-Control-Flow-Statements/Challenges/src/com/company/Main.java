@@ -3,6 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(NumberToWords.numbertoWords());
+        System.out.println(FlourPacker.canPack(1, 0, 5));
     }
 }
